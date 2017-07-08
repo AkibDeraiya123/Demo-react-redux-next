@@ -1,0 +1,23 @@
+html, body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navigationStyle {
+  border-radius: 0px;
+}
+
+.noRadius {
+  border-radius: 0px;
+}
+
+.react-bs-container-body
+{
+	margin-top: -21px;
+}
+.m0 {
+  margin: 0;
+}
+
+.p0 {
+  padding: 0;
+}
